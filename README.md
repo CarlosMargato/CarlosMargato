@@ -5,7 +5,15 @@ Tenho conhecimento em REACT, Redux, ContextAPI, JavaScript, HTML, CSS</h3>
 
 <h3 align="left">Onde me encontrar:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/carlos-margato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-margato" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/carlos-margato/" >
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" />
+    </a>
+    <a href="https://www.instagram.com/cemargato/" >
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%"/>
+    </a>
+    <a href="mailto:cemargato@gmail.com?subject=Contato%20iniciado%20por%20github">
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" width="4%" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
