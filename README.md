@@ -3,12 +3,12 @@
 Busco sempre me envolver em projetos que busquem facilitar e agregar valor a vida das pessoas.</br>
 </br>
 </br>
-    Comecei a estudar desevolvimento web na Trybe, por me vislumbrar com a área de tecnologia, mas com o passar do módulos do curso e os projetos em equipe, comecei a entender que minha vocação não é só codar, mas também criar um ambiente propício para que o desenvolvimento de uma aplicação, feature ou produto seja feita no seu prazo adequado, de qualidade e com o interesse da equipe eu executar o projeto.</br>
+    Comecei a estudar desevolvimento web na Trybe, por me vislumbrar com a área de tecnologia, mas com o passar do módulos do curso e os projetos em equipe, comecei a entender que minha vocação não é só codar, mas também criar um ambiente propício para que o desenvolvimento de uma aplicação, feature ou produto seja feita no seu prazo adequado, de qualidade e com o interesse da equipe em executar o projeto.</br>
 </br>
 </br>
 </br>
 </br>
-Tenho conhecimento em REACT, Redux, ContextAPI, JavaScript, HTML, CSS</h3>
+Tenho conhecimento em REACT, Redux, ContextAPI, Node.JS, MongoDB, MySQL, JavaScript, HTML, CSS</h3>
 
 <h3 align="left">Onde me encontrar:</h3>
 <p align="left">
